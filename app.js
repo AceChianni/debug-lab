@@ -39,4 +39,7 @@ resetButton.addEventListener('click', function() {
 // ANSWER:scope of `count` is within the global scope of the script
 
 // Question 9: Use the Network tab to find out: Is the app.js file loaded successfully?
+// Yes 
+
 // Question 10: Use the Console to track errors. Are there any errors being thrown?
+// No
