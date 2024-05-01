@@ -13,6 +13,12 @@ body {
 
 #counter-value {
   font-size: 48px;
+
+  the structure of the elements within the body is affecting the style of the layout
+  
   /* Question 2: Why is the color not applying to the counter value? */
   text-emphasis-color: #FF6347;
 }
+
+
+ text-emphasis-color is not a CSS property for choosing text color
